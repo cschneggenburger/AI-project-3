@@ -1,3 +1,11 @@
+**WORKING ITEMS**  
+Cody - Get a working model trained on specified animals  
+Dylan - get animal data set uploaded  
+Shan - find example pictures to use to predict with the model. - ex. Trail cams   
+
+
+
+
 # AI-project-3
 This repo will be used for project 3 of the AI Bootcamp.
 ### Issue
@@ -34,6 +42,37 @@ https://www.kaggle.com/datasets/alessiocorrado99/animals10/data
 
 
 Future Developments
+
+
+Animals Model Trained on:   
+
+7 bison,  
+8 boar,  
+14 cow,  
+15 coyote,
+Deer,
+19 dog,  
+21 donkey,  
+23 ducks,  
+28 fox,  
+29 goat,   
+31 goose,   
+35 hare,   
+36 hedgehog,   
+39 horse,  
+52 mouse,  
+57 owl,  
+58 ox,  
+64 pig,  
+67 possum,  
+68 raccoon,  
+69 rat, 
+77 snake,   
+80 squirrel,  
+84 turkey,  
+87 wolf
+
+
 
 
 
