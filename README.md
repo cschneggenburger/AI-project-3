@@ -31,7 +31,7 @@ Predators include animals such as coyotes, wolves, foxes, mountain lions, grizzl
 # Technologies Used 
 
 ### Models 
-Keras Model - CNN VGG -16  
+
 Pytorch Model - CNN  resnetpt
 
 ### Graphical User Interface
