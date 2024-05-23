@@ -62,14 +62,14 @@ Future Developments
 
 Animals Model Trained on:   
 
-7 bison,  
-8 boar,  
-14 cow,  
-15 coyote,
+bison,  
+boar,  
+cow,  
+coyote,
 Deer,
-19 dog,  
-21 donkey,  
-23 ducks,  
+dog,  
+donkey,  
+ducks,  
 28 fox,  
 29 goat,   
 31 goose,   
@@ -87,6 +87,15 @@ Deer,
 80 squirrel,  
 84 turkey,  
 87 wolf
+
+
+Animal Classes  
+animal_classes = ['cat', 'cow', 'coyote', 'deer', 'dog', 'donkey', 'fox', 'horse', 'owl', 'pig', 'possum', 'raccoon', 'sheep', 'wolf']  
+
+# Define predator mapping (0: nonpredator, 1: predator, 2: both)
+predator_mapping = {'cat': 2, 'cow': 0, 'coyote': 1, 'deer': 2, 'dog': 2, 'donkey': 0, 'fox': 1, 'horse': 0, 'owl': 1, 'pig': 0, 'possum': 1,
+                    'raccoon': 1, 'sheep': 0, 'wolf': 1}
+predator_classes = ['nonpredator', 'predator', 'both']
 
 
 **Presentation**
